@@ -1,5 +1,5 @@
 <h1 align="center">Hello folk 👋, I'm Anisha Routray</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and a versatile ML enthusiastic from India</h3>
 
 - 🔭 I’m currently working on [Depressions Detection](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
